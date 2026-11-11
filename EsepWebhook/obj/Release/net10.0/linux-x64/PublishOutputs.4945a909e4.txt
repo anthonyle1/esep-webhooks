@@ -3,4 +3,5 @@ C:\Users\anthony\Documents\vscode\esep-webhooks\esepwebhook\bin\Release\net10.0\
 C:\Users\anthony\Documents\vscode\esep-webhooks\esepwebhook\bin\Release\net10.0\publish\EsepWebhook.pdb
 C:\Users\anthony\Documents\vscode\esep-webhooks\esepwebhook\bin\Release\net10.0\publish\Amazon.Lambda.Core.dll
 C:\Users\anthony\Documents\vscode\esep-webhooks\esepwebhook\bin\Release\net10.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\anthony\Documents\vscode\esep-webhooks\esepwebhook\bin\Release\net10.0\publish\Newtonsoft.Json.dll
 C:\Users\anthony\Documents\vscode\esep-webhooks\esepwebhook\bin\Release\net10.0\publish\EsepWebhook.dll

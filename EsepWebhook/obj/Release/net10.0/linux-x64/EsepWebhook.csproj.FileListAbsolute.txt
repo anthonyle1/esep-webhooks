@@ -15,3 +15,5 @@ C:\Users\anthony\Documents\vscode\esep-webhooks\esepwebhook\obj\Release\net10.0\
 C:\Users\anthony\Documents\vscode\esep-webhooks\esepwebhook\obj\Release\net10.0\linux-x64\EsepWebhook.pdb
 C:\Users\anthony\Documents\vscode\esep-webhooks\esepwebhook\obj\Release\net10.0\linux-x64\EsepWebhook.genruntimeconfig.cache
 C:\Users\anthony\Documents\vscode\esep-webhooks\esepwebhook\obj\Release\net10.0\linux-x64\ref\EsepWebhook.dll
+C:\Users\anthony\Documents\vscode\esep-webhooks\esepwebhook\bin\Release\net10.0\linux-x64\Newtonsoft.Json.dll
+C:\Users\anthony\Documents\vscode\esep-webhooks\esepwebhook\obj\Release\net10.0\linux-x64\EsepWebhook.sourcelink.json
